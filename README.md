@@ -1,82 +1,61 @@
-# Hi, I'm Waddah 👋
+# Waddah Mahmoud
 
-I am a software and technology professional interested in building reliable software, solving practical IT problems, and applying artificial intelligence to real-world needs.
+### Software Engineering · IT Systems · Applied AI
 
-**GitHub:** [@waddah012](https://github.com/waddah012)
+I build practical digital systems—from responsive web experiences and automated build pipelines to deployment infrastructure and technical architecture. I enjoy turning unclear operational problems into solutions that are understandable, maintainable, and useful.
 
-I am currently building a focused portfolio for opportunities in:
+I am building a focused public portfolio for opportunities in software engineering, IT and systems, technical operations, and applied AI.
 
-- Software engineering
-- Information technology and systems
-- Computer science
-- Applied AI and automation
+## What I have built
 
-## What I bring
+- A responsive, multi-page web platform with semantic HTML, accessible navigation, keyboard support, reduced-motion behavior, interactive forms, and mobile layouts
+- A Node.js production build process with SHA-256 asset fingerprinting and automated checks for links, assets, canonical URLs, titles, and JSON-LD
+- Containerized web delivery using Docker and Nginx health checks, with Caddy routing and DigitalOcean deployment configuration
+- Python tools that generate structured technical PDFs with reusable layouts, tables, diagrams, page numbering, and custom visual components
+- Technical architectures for automation and AI-assisted systems that emphasize human approval, observable failure states, auditability, and responsible controls
 
-- A problem-solving mindset grounded in practical outcomes
-- Experience turning ideas and requirements into working web and automation solutions
-- The ability to work across implementation, deployment, validation, and technical documentation
-- A commitment to clear documentation, maintainable work, and continuous learning
+## Technical toolkit
 
-## Demonstrated technical skills
+| Area | Skills and tools |
+| --- | --- |
+| Languages | JavaScript, Python, HTML5, CSS3 |
+| Web engineering | Responsive design, semantic markup, accessibility, browser interactions, forms |
+| Build and quality | Node.js, automated validation, asset fingerprinting, structured-data checks |
+| Web standards | Technical SEO, canonical URLs, Open Graph, JSON-LD, custom error handling |
+| Infrastructure | Docker, Nginx, Caddy, DigitalOcean, health checks, static-site delivery |
+| Automation | Python scripting, repeatable build processes, document generation |
+| Technical communication | ReportLab, architecture diagrams, implementation plans, system specifications |
+| Systems design | Workflow design, systems integration concepts, controlled automation, reliability thinking |
 
-**Programming and web development**
+## Selected work
 
-- HTML5, CSS3, JavaScript, and Python
-- Responsive, multi-page website development
-- Accessible navigation, keyboard support, semantic markup, and reduced-motion support
-- Browser-side interactions, forms, and event-driven interfaces
+### Web engineering and deployment
 
-**Build quality and web standards**
+Designed, built, validated, and deployed a full multi-page website rather than relying on a prebuilt template. The work includes responsive UI implementation, accessible interaction patterns, search and social metadata, a custom build pipeline, automated validation, container configuration, and production routing.
 
-- Node.js build and validation scripts
-- Automated link, asset, metadata, and structured-data checks
-- Search and sharing metadata, including canonical URLs, Open Graph, and JSON-LD
-- Asset fingerprinting, performance-conscious delivery, and custom error pages
+### Python document automation
 
-**Deployment and infrastructure**
+Created reusable Python components for producing long-form technical documents. The tooling handles consistent styling, tables, diagrams, headers, footers, page numbering, and complex layouts so that detailed specifications can be generated reliably.
 
-- Docker containerization and health checks
-- Nginx and Caddy web-server configuration
-- DigitalOcean deployment workflows
-- Static-site build, preview, and production-delivery processes
+### Applied AI and systems research
 
-**Automation and technical communication**
-
-- Python scripting for repeatable document generation
-- ReportLab-based PDF layouts, tables, diagrams, and reusable document components
-- Systems architecture, interface planning, and implementation documentation
-
-## Areas I am developing
-
-- Applied AI and responsible automation
-- Systems integration and workflow design
-- Software architecture and reliability
-- Mathematical assurance and verification concepts
-- Broader computer science and IT operations skills
-
-## Featured work
-
-I am currently preparing a small set of polished projects that demonstrate how I approach different kinds of technical problems.
-
-| Area | Project | What it demonstrates |
-| --- | --- | --- |
-| Software engineering | Responsive web platform — case study in preparation | Multi-page architecture, accessible UI, responsive design, build automation, and validation |
-| IT and systems | Containerized web deployment — case study in preparation | Docker, Nginx, Caddy, health checks, and deployment configuration |
-| Python automation | Document-generation toolkit — sample in preparation | Python scripting, reusable components, structured layouts, tables, and diagrams |
-| Applied AI | Systems and automation research — public summary in preparation | Responsible automation, system design, controls, and technical research |
-
-## Current focus
-
-- Building useful, dependable software
-- Exploring practical AI applications and automation
-- Strengthening computer science, deployment, and systems knowledge
-- Documenting projects so that both technical and non-technical readers can understand their value
+Developed architecture and interface concepts for AI-assisted automation, systems integration, decision support, and mathematical assurance. The emphasis is on practical safeguards: explicit constraints, human review, traceable decisions, measurable outcomes, and safe failure behavior.
 
 ## How I work
 
-I begin with the problem, clarify the constraints, choose tools that fit the situation, and document both the result and the reasoning behind it.
+- Start with the real problem and its constraints
+- Choose technology that fits the work instead of following trends
+- Treat accessibility, privacy, validation, and deployment as part of the build
+- Document decisions so another person can understand and maintain the result
+- Make claims that can be supported with working artifacts or clear evidence
+
+## Current direction
+
+- Turning selected work into privacy-safe public case studies
+- Expanding practical AI and automation implementation skills
+- Deepening software architecture, infrastructure, and reliability knowledge
+- Building polished projects that demonstrate complete delivery, not only prototypes
 
 ---
 
-This profile is being updated with selected public work and privacy-safe case studies.
+You can follow my work here on GitHub: [@waddah012](https://github.com/waddah012)
